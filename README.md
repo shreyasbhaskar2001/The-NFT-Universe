@@ -7,4 +7,4 @@ It's essential to recognize that creating a clone website involves being respect
 In conclusion, "The NFT Universe" is a project that showcases your skills and understanding of web development and blockchain technology. It's a testament to my creativity and efforts to provide users with an experience similar to that of the popular OpenSea platform. 
 
 
-I would like you guys to learn something your my project and keep up the great work and continue learning and growing in the world of web development and blockchain!
+I would encourage you guys to learn something from my project and keep up the great work and continue learning and growing in the world of web development and blockchain!
